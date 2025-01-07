@@ -1,4 +1,4 @@
-# superceded by "oats frien"
+# superceded by "Oats"
 
 ## Froggy b3
  
