@@ -1,4 +1,6 @@
-# Froggy b3
+#superceded by "oats frien"
+
+## Froggy b3
  
 ###### patch notes: moved some more characters around in a way that made sense to me while still maintaining good ergonomic performance.
 
